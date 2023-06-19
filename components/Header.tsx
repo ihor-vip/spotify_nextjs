@@ -12,7 +12,7 @@ import {toast} from "react-hot-toast";
 import Button from "@/components/Button";
 import useAuthModal from "@/hooks/useAuthModal";
 import { useUser } from "@/hooks/useUser";
-import usePlayer from "../hooks/usePlayer";
+import usePlayer from "@/hooks/usePlayer";
 
 
 interface HeaderProps {
